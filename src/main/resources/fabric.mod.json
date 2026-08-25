@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
-	"id": "template-mod",
+	"id": "redcraft",
 	"version": "${version}",
-	"name": "Template Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "redcraft Mod",
+	"description": "Test",
 	"authors": [
-		"Me!"
+		"Mazeeqe"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
